@@ -1,2 +1,3 @@
 # Revamping my git knowledge
-# hello
+# this repo contains sample to test my python git repo sense
+#WHOH.....
